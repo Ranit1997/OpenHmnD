@@ -3,7 +3,7 @@
 """
 Created on Wed Jul  5 22:14:51 2017
 
-@author: root
+@author: Ranit
 """
 
 import nltk
